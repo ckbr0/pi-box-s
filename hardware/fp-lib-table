@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RPi_Compute_Module_4)(type KiCad)(uri ${KIPRJMOD}/libraries/RPi-CM4-Kicad/RPi_Compute_Module_4.pretty)(options "")(descr ""))
+  (lib (name 1-2199230-6)(type KiCad)(uri ${KIPRJMOD}/libraries/1-2199230-6)(options "")(descr ""))
+  (lib (name TPS54331GDR)(type KiCad)(uri ${KIPRJMOD}/libraries/TPS54331GDR)(options "")(descr ""))
+)

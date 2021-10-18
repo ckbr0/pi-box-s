@@ -1,0 +1,3 @@
+[submodule "hardware/libraries/RPi-CM4-Kicad"]
+	path = hardware/libraries/RPi-CM4-Kicad
+	url = git@github.com:Kedarius/RPi-CM4-Kicad.git

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Raspberry_Pi_Compute_Module_4)(type Legacy)(uri ${KIPRJMOD}/libraries/RPi-CM4-Kicad/Raspberry_Pi_Compute_Module_4.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri ${KIPRJMOD}/libraries/Connector/Connector.lib)(options "")(descr ""))
+  (lib (name 1-2199230-6)(type Legacy)(uri ${KIPRJMOD}/libraries/1-2199230-6/1-2199230-6.lib)(options "")(descr ""))
+  (lib (name TPS54331GDR)(type Legacy)(uri ${KIPRJMOD}/libraries/TPS54331GDR/TPS54331GDR.lib)(options "")(descr ""))
+)
